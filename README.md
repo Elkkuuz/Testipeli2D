@@ -1,2 +1,2 @@
 # Testipeli2D
-Liikkuminen
+Liikkuminen ja rajat
